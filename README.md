@@ -6,7 +6,7 @@
 
 ## Components
 
-- [] Text
+- [ ] Text
 
 ## Tools
 
